@@ -1,7 +1,7 @@
 <script setup lang="ts"></script>
 
 <template>
-  <d-button></d-button>
+  <d-button type="primary" disabled size="small">hello</d-button>
 </template>
 
 <style scoped></style>

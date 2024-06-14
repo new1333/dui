@@ -5,7 +5,7 @@
     "dev": "pnpm -F @dui/play dev",
     "docs:dev": "pnpm -F @dui/docs dev",
     "docs:build": "pnpm -F @dui/docs build",
-    "test": "echo 'todo'"
+    "test": "pnpm -F @dui/components test"
   },
   "devDependencies": {
     "@types/lodash-es": "^4.17.12",
